@@ -37,6 +37,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Machine Learning Projects for .NET Developers [[Download]](/book/Machine%20Learning%20Projects%20for%20.NET%20Developers.pdf)
 * Machine Learning Using C# Succinctly [[Download]](/book/Machine%20Learning%20Using%20C%23%20Succinctly.pdf)
 * Machine Learning with Spark [[Download]](/book/Machine%20Learning%20with%20Spark.pdf)
+* Machine Learning with TensorFlow [[Download]](/book/Machine%20Learning%20with%20TensorFlow.pdf)
 * Mastering .NET Machine Learning [[Download]](/book/Mastering%20.NET%20Machine%20Learning.epub)
 * Mastering Machine Learning with Python in Six Steps [[Download]](/book/Mastering%20Machine%20Learning%20with%20Python%20in%20Six%20Steps.pdf)
 * Mastering Machine Learning with scikit-learn - Second Edition [[Download]](/book/Mastering%20Machine%20Learning%20with%20scikit-learn%20-%20Second%20Edition.epub)
